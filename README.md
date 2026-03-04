@@ -1,8 +1,8 @@
 # Green Patent Detection Portfolio
 # LINKS TO MODEL/DATASET ON HUGGING FACE
-A2 - Model (https://huggingface.co/Ailee52/PatentSBERTa_finetuned_green) // Dataset (https://huggingface.co/datasets/Ailee52/PatentSBERTa-green-dataset)
-A3 - Model (https://huggingface.co/Ailee52/PatentSBERTa_finetuned_green_multiagent) // Dataset (https://huggingface.co/datasets/Ailee52/PatentSBERTa_finetuned_green_multiagent-dataset)
-A4 - Model (https://huggingface.co/Ailee52/PatentSBERTa_finetuned_green_advanced) // Dataset (https://huggingface.co/datasets/Ailee52/PatentSBERTa_finetuned_green_final_advanced-dataset)
+- A2 - Model (https://huggingface.co/Ailee52/PatentSBERTa_finetuned_green) // Dataset (https://huggingface.co/datasets/Ailee52/PatentSBERTa-green-dataset)
+- A3 - Model (https://huggingface.co/Ailee52/PatentSBERTa_finetuned_green_multiagent) // Dataset (https://huggingface.co/datasets/Ailee52/PatentSBERTa_finetuned_green_multiagent-dataset)
+- A4 - Model (https://huggingface.co/Ailee52/PatentSBERTa_finetuned_green_advanced) // Dataset (https://huggingface.co/datasets/Ailee52/PatentSBERTa_finetuned_green_final_advanced-dataset)
 
 ---
 
