@@ -13,27 +13,30 @@ The report of 2 pages is submitted by digitalexam portal
 # Explaination of each folders:
 ## A1-
 What did I do:
-What I learned:
+results:
 details:
+files details:
 
 
 ## A2-
 What did I do:
-What I learned:
-details:
+results:
+files details:
 pipeline:
 
 ## A3-
 What did I do:
-What I learned:
+results:
 details:
-pipeline:
+files details:
+Agreement Report:
+
 
 ## A4-
 What did I do:
-What I learned:
+results:
 details:
-piepline:
+files details:
 Disagreement Report: (Full on HF model card)
 - From 100 high-risk patent claims that processed by Multi-Agent System (MAS), there were 2 claims that judge agent expressed uncertainly in its rationale.
 Key words using to find uncertain from jude rationale are "unclear", "uncertain", "debateable", "unsure", "however", and "uncertainly", it indicates that the advocate and skeptical arguements reached a deadlock.
