@@ -12,10 +12,14 @@ The report of 2 pages is submitted by digitalexam portal
 ---
 # Explaination of each folders:
 ## A1-
-What did I do:
-results:
-details:
-files details:
+- What did I do:
+  - Part A: Manual computation of Stochastic Gradient Descent (SGD) | setting Hyperparameters: Learning Rate of 2 / Parameters: Initial Weight (W old) of 1
+  - Part B: Contextual word representations using self-attention | Sentences: S1 - The seal is swimming in the ocean. (Seal = animal), S2 - Please seal the envelope before sending it. (Seal = close)
+- results:
+  - Part A: The results show the updates of the weight using stochastic Gradient Descent (SGD) for the first three samples. For each sample, the gradient determines both the direction and magnitude of the weight update. A large positive gradient in the first sample causes a large descrease in the weight, while smaller gradients in the later samples lead to smaller updates. This demonstrates how individual samples influence parameter updates in SGD.
+  - Part B: In the original embeddings, the distance between "seal" and "envelope" is relatively large because static embeddings do not encode contexual relationships. (original distance approximated at 0.41). After applying self-attention, the distance becomes much smaller, indicating that "seal" incorporates contexual information from surrounding words such as "envelope". (after attention the distance approximated at 0.064). This demonstrates that self-attention produces context-aware representations.
+- details: -
+- files details: m4s2assignment1.py - Main Python file containing both Part A and Part B implementations. (was originally implemented in Colab)
 
 
 ## A2-
